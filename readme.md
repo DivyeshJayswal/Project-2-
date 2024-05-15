@@ -47,8 +47,6 @@ The analysis found that the number of votes and the budget have the highest corr
 
 ## Author
 
-This analysis was performed by [Your Name].
+This analysis was performed by Divyesh Jayswal.
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
